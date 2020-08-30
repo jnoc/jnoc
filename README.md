@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1/new.min.css">
 <h1>test</h1>
 
 <!--
