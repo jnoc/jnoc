@@ -1,7 +1,4 @@
 ### Hi there 👋
-<link rel="stylesheet" href="https://fonts.xz.style/serve/inter.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@exampledev/new.css@1/new.min.css">
-<h1 style="font-family:monospace;">test</h1>
 
 <!--
 **jnoc/jnoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
