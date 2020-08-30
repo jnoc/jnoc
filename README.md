@@ -1,4 +1,4 @@
-[<img align="left" src="https://jcarter.uk/favicon/mstile-144x144.png">](https://jcarter.uk)
+[<img align="left" src="https://jcarter.uk/assets/qr-code150x150.png">](https://jcarter.uk)
 
 [![whoami](https://img.shields.io/badge/%CE%BB%20~-Jonathon%20Carter-black?style=flat-square&color=black&labelColor=black)](#)
 [![linkedin](https://img.shields.io/badge/-jonathon--c-black?style=flat-square&labelColor=black&logo=linkedin&logoColor=white&color=black)](https://www.linkedin.com/in/jonathon-c/)
