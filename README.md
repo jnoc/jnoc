@@ -8,4 +8,4 @@
 
 Hi, I'm **Jonathon** and I'm a <ins>Computer Science</ins> student. Studying at the University of <ins>Portsmouth</ins>.
 
-Currently on a 12 month placement as a <ins>Technical Support</ins> intern at Industrial Light and Magic.
+Currently on a 12 month placement as a <ins>Technical Support</ins> intern at Industrial Light & Magic.
